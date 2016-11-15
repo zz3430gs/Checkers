@@ -12,7 +12,7 @@
     <GridLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:rowCount="32"
-        android:columnCount="32">helo</GridLayout>
+        android:rowCount="8"
+        android:columnCount="8"></GridLayout>
 
 </RelativeLayout>
